@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300&family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300&display=swap");
 
 :root {
-  --succsess-color: #2ecc71;
+  --success-color: #2ecc71;
   --error-color: #e74c3c;
 }
 
@@ -62,7 +62,7 @@ h2 {
 }
 
 .form-control.success input {
-  border-color: var(--success-colr);
+  border-color: var(--success-color);
 }
 
 .form-control.error input {
